@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+.odd{
+    background: #00b300;
+    color: #ffffff;
+   
+}
+
+.even{
+    background: #000099;
+    color: #ffffff;
+}
+h1{
+    margin: auto;
+    padding: 20rem;
+    font-size: 8rem;
+}
